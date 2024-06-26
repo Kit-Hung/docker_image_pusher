@@ -1,9 +1,2 @@
-goharbor/harbor-core:v2.11.0
-goharbor/harbor-db:v2.11.0
-goharbor/harbor-jobservice:v2.11.0
-goharbor/nginx-photon:v2.11.0
-goharbor/harbor-portal:v2.11.0
-goharbor/redis-photon:v2.11.0
-goharbor/registry-photon:v2.11.0
-goharbor/harbor-registryctl:v2.11.0
-goharbor/trivy-adapter-photon:v2.11.0
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
+registry.k8s.io/metrics-server/metrics-server:v0.7.1
