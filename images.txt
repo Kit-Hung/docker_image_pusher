@@ -1,6 +1,9 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+goharbor/harbor-core:v2.11.0
+goharbor/harbor-db:v2.11.0
+goharbor/harbor-jobservice:v2.11.0
+goharbor/nginx-photon:v2.11.0
+goharbor/harbor-portal:v2.11.0
+goharbor/redis-photon:v2.11.0
+goharbor/registry-photon:v2.11.0
+goharbor/harbor-registryctl:v2.11.0
+goharbor/trivy-adapter-photon:v2.11.0
