@@ -1,3 +1,4 @@
-registry.k8s.io/ingress-nginx/controller:v1.10.1
-registry.k8s.io/ingress-nginx/opentelemetry:v20230721-3e2062ee5
-registry.k8s.io/defaultbackend-amd64:1.5
+gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:289637128ee638c59f43759d4a503795247024b499152925cbabad3d4ad965b1
+gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:fb70ee517f350d0c1c5cb316aa3616c177e37681c5e1fd22b3e49cc8a57e4a1f
+gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:33a3f08414b614a2d48de978ac1240737e06341c8419184a8712863e812211cf
+gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:3c669d86c48f74861e6d558c6e6aa1e81d951af860e626a568739f330bbe8b13
