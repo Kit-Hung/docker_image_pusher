@@ -1,9 +1,9 @@
 gcr.io/knative-releases/knative.dev/net-istio/cmd/controller:v1.15.1
 gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook:v1.15.1
 gcr.io/knative-releases/knative.dev/eventing/cmd/controller:v1.15.0
-gcr.io/knative-releases/knative.dev/eventing/cmd/jobsink:v1.15.1
-gcr.io/knative-releases/knative.dev/eventing/cmd/mtping:v1.15.1
-gcr.io/knative-releases/knative.dev/eventing/cmd/webhook:v1.15.1
+gcr.io/knative-releases/knative.dev/eventing/cmd/jobsink:v1.15.0
+gcr.io/knative-releases/knative.dev/eventing/cmd/mtping:v1.15.0
+gcr.io/knative-releases/knative.dev/eventing/cmd/webhook:v1.15.0
 gcr.io/knative-releases/knative-kafka-broker-dispatcher-loom:v1.15.1
 gcr.io/knative-releases/knative-kafka-broker-receiver-loom:v1.15.1
 gcr.io/knative-releases/knative.dev/eventing-kafka-broker/control-plane/cmd/kafka-controller:v1.15.1
