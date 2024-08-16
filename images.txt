@@ -1,1 +1,1 @@
-index.docker.io/paketobuildpacks/run-jammy-tiny:latest
+gcr.io/knative-releases/knative.dev/eventing/cmd/event_display:latest
