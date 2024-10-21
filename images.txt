@@ -1,1 +1,1 @@
-cncamp/inbound-agent
+docker.io/cncamp/inbound-agent:latest
