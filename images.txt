@@ -1,1 +1,1 @@
-docker.io/cncamp/inbound-agent:latest
+jenkins/inbound-agent:latest-jdk17
