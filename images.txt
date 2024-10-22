@@ -1,1 +1,5 @@
-gcr.io/tekton-releases/github.com/tektoncd/chains/cmd/controller:v0.22.2
+docker.io/calico/kube-controllers:v3.28.2
+docker.io/calico/pod2daemon-flexvol:v3.28.2
+docker.io/calico/typha:v3.28.2
+docker.io/calico/node-driver-registrar:v3.28.2
+docker.io/calico/csi:v3.28.2
