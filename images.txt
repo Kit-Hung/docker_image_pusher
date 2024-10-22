@@ -1,1 +1,1 @@
-gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/interceptors:v0.29.1
+ghcr.io/tektoncd/pipeline/entrypoint-bff0a22da108bc2f16c818c97641a296:v0.64.0
