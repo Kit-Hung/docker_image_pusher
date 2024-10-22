@@ -1,5 +1,4 @@
 ghcr.io/tektoncd/pipeline/nop-8eac7c133edad5df719dc37b36b62482:v0.64.0
 ghcr.io/tektoncd/pipeline/sidecarlogresults-7501c6a20d741631510a448b48ab098f:v0.64.0
 ghcr.io/tektoncd/pipeline/workingdirinit-0c558922ec6a1b739e550e349f2d5fc1:v0.64.0
-mcr.microsoft.com/powershell:nanoserver
 gitlab/gitlab-ee:17.5.0-ee.0
