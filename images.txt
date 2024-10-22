@@ -1,1 +1,1 @@
-ghcr.io/tektoncd/pipeline/entrypoint-bff0a22da108bc2f16c818c97641a296:v0.64.0
+cgr.dev/chainguard/busybox:latest
