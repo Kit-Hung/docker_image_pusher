@@ -1,7 +1,7 @@
-ghcr.io/tektoncd/pipeline/resolvers-ff86b24f130c42b88983d3c13993056d:v0.64.0@sha256:9f7991b6de05c81de7181fb4f776226458c1545580a6b72e6c4c1865d94e5807
-ghcr.io/tektoncd/dashboard/dashboard-9623576a202fe86c8b7d1bc489905f86:v0.51.0@sha256:eac95d58269ba9f9a15981e2f615eb97259529384c7c71cfd92229f88474bc6c
-ghcr.io/tektoncd/pipeline/events-a9042f7efb0cbade2a868a1ee5ddd52c:v0.64.0@sha256:7af9b9524e52f60dcdeb340eca246dd89130706ff81d90c493a3427c9a6982dc
-ghcr.io/tektoncd/pipeline/controller-10a3e32792f33651396d02b6855a6e36:v0.64.0@sha256:8e1791ab46c47f578ca5906f1c0af24f78cb191bad496a59e72c643a1ae2f29a
-ghcr.io/tektoncd/pipeline/webhook-d4749e605405422fd87700164e31b2d1:v0.64.0@sha256:8475323b54178084997c4e64842888b87efe2a31f765f87390f161f8c93d86e0
-gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/controller:v0.29.1@sha256:34aa909bd6de6b24c78004bbd5eac0d8d1f438bba4be5beb385b61b88977bffe
-gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/webhook:v0.29.1@sha256:6ec798175d57ad3fef752b6c2eddab78145d0d4e1472c79535bf4d9772cd1cca
+ghcr.io/tektoncd/pipeline/resolvers-ff86b24f130c42b88983d3c13993056d:v0.64.0
+ghcr.io/tektoncd/dashboard/dashboard-9623576a202fe86c8b7d1bc489905f86:v0.51.0
+ghcr.io/tektoncd/pipeline/events-a9042f7efb0cbade2a868a1ee5ddd52c:v0.64.0
+ghcr.io/tektoncd/pipeline/controller-10a3e32792f33651396d02b6855a6e36:v0.64.0
+ghcr.io/tektoncd/pipeline/webhook-d4749e605405422fd87700164e31b2d1:v0.64.0
+gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/controller:v0.29.1
+gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/webhook:v0.29.1
