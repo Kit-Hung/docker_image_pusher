@@ -1,1 +1,2 @@
-cgr.dev/chainguard/busybox:latest
+alpine:latest
+ubuntu:latest
