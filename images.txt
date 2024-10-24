@@ -1,1 +1,2 @@
-cncamp/httpserver:v1.0
+alpine:3.20
+golang:1.23.2-alpine3.20
