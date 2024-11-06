@@ -1,2 +1,1 @@
-alpine:3.20
-golang:1.23.2-alpine3.20
+docker.io/library/nginx:1.27-alpine-otel
